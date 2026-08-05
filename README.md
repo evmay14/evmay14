@@ -2,7 +2,7 @@
 <h3 align="center">Data Analytics Quality Engineer and MBA Student at Purdue University</h3>
 
 <h3 align="left">About me:</h3>
-<h3 align="left">My background is in mechanical engineering, but I have grown a passion for data analytics. In my current role, I am a Data Analytics Quality Engineer working as a data consultant for different programs, leading a SPC IRAD, and growing data analytics at BAE Systems. I am pursuing my MBA at Purdue to grow my background in data analytics and AI, and expand my knowledge to business, finance, and leadership. Outside of work, I enjoy sports and outdoor activities, reading, building things - physical items/tools and apps/software tools.</h3>
+<a align="left">My background is in mechanical engineering, but I have grown a passion for data analytics. In my current role, I am a Data Analytics Quality Engineer working as a data consultant for different programs, leading a SPC IRAD, and growing data analytics at BAE Systems. I am pursuing my MBA at Purdue to grow my background in data analytics and AI, and expand my knowledge to business, finance, and leadership. Outside of work, I enjoy sports and outdoor activities, reading, building things - physical items/tools and apps/software tools.</a>
 
 | Degree | Institution | Year |
 |--------|-------------|------|
