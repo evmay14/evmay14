@@ -11,6 +11,11 @@
 | Masters in Business Administration | Purdue University | 2027 |
 | B.S. Mechanical Engineering | University of Michigan | 2025 |
 
+<h3 align="left">Skills / Tech Stack:</h3>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+
 - 🔭 I’m currently working on **LendingClub Data Analytics**
 
 <h3 align="left">Connect with me:</h3>
