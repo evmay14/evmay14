@@ -47,8 +47,8 @@ I'm a mechanical engineer by training and a data analyst by trade. I currently w
 ### Projects
 
 #### LendingClub Loan Default Risk Analytics Platform — MBA Capstone
-Built a production-quality credit risk platform for Indiana borrowers end-to-end: trained and compared Logistic Regression, Random Forest, and XGBoost models, added a SHAP explainability engine and a K-Means borrower segmentation engine, and shipped it all as a multipage Streamlit dashboard backed by 265+ automated tests.
-**Skills:** Python · scikit-learn · XGBoost · SHAP · Streamlit · pandas
+Built a production-quality credit risk platform for Indiana borrowers end-to-end: trained and compared Logistic Regression, Random Forest, and XGBoost models, added a SHAP explainability engine and a K-Means borrower segmentation engine, and shipped it all as a multipage Streamlit dashboard backed by 265+ automated tests.<br>
+**Skills:** Python · scikit-learn · XGBoost · SHAP · Streamlit · pandas<br>
 [![View Project](https://img.shields.io/badge/View_Project-1a1a2e?style=for-the-badge)](https://mgmt590capstone.streamlit.app)
 
 
@@ -77,7 +77,7 @@ Designed an executive-facing Streamlit dashboard for a customer intelligence use
 #### Quantitative Options Research Platform *(in progress)*
 A long-term personal build: a systematic options research platform developed in disciplined phases, with anti-overfitting safeguards and realistic transaction-cost modeling built in from day one rather than bolted on later.<br>
 **Skills:** Python · Quantitative Finance · Options Pricing<br>
-[![Coming Soon!](https://img.shields.io/badge/Repository-1a1a2e?style=for-the-badge)](Coming Soon!)
+Repository coming soon!
 
 ---
 
