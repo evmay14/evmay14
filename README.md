@@ -63,18 +63,17 @@ Applied data cleaning and statistical techniques to real-world datasets
 #### Employee Attrition Segmentation — K-Means Clustering
 Applied K-Means clustering to IBM employee attrition data to identify distinct attrition-risk segments, then built and deployed two interactive versions of the analysis for different audiences.
 **Skills:** Python · scikit-learn · Gradio · Dash · Plotly
-[![Hugging Face App](https://img.shields.io/badge/Hugging_Face_App-1a1a2e?style=for-the-badge)](YOUR_HUGGINGFACE_LINK)
-[![Plotly Cloud App](https://img.shields.io/badge/Plotly_Cloud_App-1a1a2e?style=for-the-badge)](YOUR_PLOTLY_CLOUD_LINK)
+[![Plotly Cloud App](https://img.shields.io/badge/Plotly_Cloud_App-1a1a2e?style=for-the-badge)](https://ede75b9e-b177-4ba0-a7f3-89b33f1a814b.plotly.app)
 
 #### NovaRetail Executive Customer Intelligence Dashboard
 Designed an executive-facing Streamlit dashboard for a customer intelligence use case, including Day/Month/Year granularity toggling for revenue and engagement trends.
 **Skills:** Python · Streamlit · Plotly · pandas
-[![View Project](https://img.shields.io/badge/View_Project-1a1a2e?style=for-the-badge)](YOUR_NOVARETAIL_LINK)
+[![View Project](https://img.shields.io/badge/View_Project-1a1a2e?style=for-the-badge)](https://mgmt590novaretail.streamlit.app)
 
 #### Quantitative Options Research Platform *(in progress)*
 A long-term personal build: a systematic options research platform developed in disciplined phases, with anti-overfitting safeguards and realistic transaction-cost modeling built in from day one rather than bolted on later.
 **Skills:** Python · Quantitative Finance · Options Pricing
-[![Repository](https://img.shields.io/badge/Repository-1a1a2e?style=for-the-badge)](Coming Soon!)
+[![Coming Soon!](https://img.shields.io/badge/Repository-1a1a2e?style=for-the-badge)](LINK GOES HERE)
 
 ---
 
