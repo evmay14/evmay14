@@ -42,8 +42,6 @@ I'm a mechanical engineer by training and a data analyst by trade. I currently w
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-> Not every tool you use may be covered above — add or swap badges at the [Shields.io badge generator](https://shields.io/) as needed.
-
 ---
 
 ### Projects
@@ -51,7 +49,16 @@ I'm a mechanical engineer by training and a data analyst by trade. I currently w
 #### LendingClub Loan Default Risk Analytics Platform — MBA Capstone
 Built a production-quality credit risk platform for Indiana borrowers end-to-end: trained and compared Logistic Regression, Random Forest, and XGBoost models, added a SHAP explainability engine and a K-Means borrower segmentation engine, and shipped it all as a multipage Streamlit dashboard backed by 265+ automated tests.
 **Skills:** Python · scikit-learn · XGBoost · SHAP · Streamlit · pandas
-[![View Project](https://img.shields.io/badge/View_Project-1a1a2e?style=for-the-badge)](YOUR_LENDINGCLUB_LINK)
+[![View Project](https://img.shields.io/badge/View_Project-1a1a2e?style=for-the-badge)](https://mgmt590capstone.streamlit.app)
+
+#### 🏀 Sports Analytics
+Developed data-driven analysis projects using sports statistics to investigate team and player performance.
+**Skills:** Python · Pandas · APIs · Web Scraping · Statistical Analysis
+**Highlights:**
+Worked with publicly available sports datasets and APIs
+Analyzed player and team performance metrics
+Explored predictive approaches to sports outcomes
+Applied data cleaning and statistical techniques to real-world datasets
 
 #### Employee Attrition Segmentation — K-Means Clustering
 Applied K-Means clustering to IBM employee attrition data to identify distinct attrition-risk segments, then built and deployed two interactive versions of the analysis for different audiences.
@@ -67,7 +74,7 @@ Designed an executive-facing Streamlit dashboard for a customer intelligence use
 #### Quantitative Options Research Platform *(in progress)*
 A long-term personal build: a systematic options research platform developed in disciplined phases, with anti-overfitting safeguards and realistic transaction-cost modeling built in from day one rather than bolted on later.
 **Skills:** Python · Quantitative Finance · Options Pricing
-[![Repository](https://img.shields.io/badge/Repository-1a1a2e?style=for-the-badge)](YOUR_OPTIONS_PLATFORM_LINK)
+[![Repository](https://img.shields.io/badge/Repository-1a1a2e?style=for-the-badge)](Coming Soon!)
 
 ---
 
@@ -88,6 +95,6 @@ A long-term personal build: a systematic options research platform developed in 
 
 ### Contact
 
-📧 **Email:** your.email@purdue.edu
+📧 **Email:** may131@purdue.edu
 💼 **LinkedIn:** [linkedin.com/in/evan--may](https://linkedin.com/in/evan--may)
 🖥️ **GitHub:** [github.com/evmay14](https://github.com/evmay14)
